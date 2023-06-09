@@ -1,0 +1,35 @@
+[
+ //nations//
+    {
+
+      "Name": "Reino Inuite",
+      "LeaderName": "Test",
+      "adjective": ["Inuit"],
+      "startBias": ["Tundra"],
+      "preferredVictoryType": "Scientific",
+
+ "startIntroPart1": "Liberdade ou morte",
+ "startIntroPart2": "AVANTE!",
+ "declaringWar": "Prepare para o seu pior pesadelo.",
+ "attacked": "Seu covarde maldito!, prepara para a sua morte",
+ "defeated": "Nunca seremos ser esquecidos.", 
+ "introduction": "Seja bem vindo minha Imperatriz, a sua beleza empresta para todas as províncias do nosso reino, mostre para os nossos inimigos a sua força de avalanche!",
+ "neutralHello": "Bom dia rabuda",
+ "neutralLetsHearIt": ["Vamos discutir putas."],
+ "hateHello": "Ah vai tomar no seu cu",
+ "tradeRequest": "Melhor pegar logo se não vou aceitar não.",
+ "outerColor": [0, 0, 0],
+ "innerColor": [255, 255, 255],
+ "afterPeace": "Seja garantido nessa nossa paz.",
+ "tradeRequest": "Nós esperamos que nossa missão se encontre!.",
+
+ "favoredReligion": "Christianity",
+
+ "uniqueName": "Povo seleto pelo Criador",
+ "uniques": ["[+5 food] from every [Farm] in [Tundra]"],
+ "cities": ["Nuuk","Salazar","Adolf Hitler","Mussolini","Airton Senna","Jair Messias Bolsonaro","Bob marley","VPN grátis para todo o Brasil","Heroína"],
+
+}
+ ]
+ 
+		
